@@ -1,3 +1,4 @@
-Linda Nevalainen
-nevalainen.mi@gmail.com
-
+#python harjoitukset
+**Linda Nevalainen**
+##mod 1
+tein tehtävät
