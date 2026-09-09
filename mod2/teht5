@@ -2,12 +2,11 @@ leiviskat = float(input("Anna leiviskät: "))
 naulat = float(input("Anna naulat: "))
 luodit = float(input("Anna luodit: "))
 
-# Muunnokset
 luodit_grammoina = luodit * 13.3
 naulat_grammoina = naulat * 32 * 13.3
 leiviskat_grammoina = leiviskat * 20 * 32 * 13.3
 
-kokonais_grammat = luodit_grammoina + naulat_grammoina + leiviskat_grammoina
+kokonais_grammat = leiviskat_grammoina + naulat_grammoina + luodit_grammoina
 
 kilot = int(kokonais_grammat // 1000)
 grammat = kokonais_grammat % 1000
