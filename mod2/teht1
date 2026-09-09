@@ -1,2 +1,4 @@
-nimi = input("Anna nimesi: ")
-print(f"Terve, {nimi}!")
+print("Terve, Linda!")
+
+
+
