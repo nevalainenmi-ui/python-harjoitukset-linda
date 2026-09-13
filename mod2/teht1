@@ -1,5 +1,5 @@
 nimi = "Linda"
-print(f"Terve, {nimi}!")
+print(f"Terve, {nimi}!") 
 
 
 
