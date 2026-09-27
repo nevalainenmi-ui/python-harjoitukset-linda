@@ -15,3 +15,7 @@ tein tehtävät 1-6
 tein tehtävät 1-4
 
 tehtävässä kaksi kokeilin tehdä siten, että hyväksyy myös pienet kirjaimet ja ohjelma toimi
+
+##mod 4
+
+tein tehtävät 1-5
