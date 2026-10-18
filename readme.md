@@ -19,3 +19,8 @@ tehtävässä kaksi kokeilin tehdä siten, että hyväksyy myös pienet kirjaime
 ##mod 4
 
 tein tehtävät 1-5
+
+
+#mod 5
+
+tein tehtävät 1-4
